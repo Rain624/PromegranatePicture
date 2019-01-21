@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 4ea98b2b149a4be45a55e20e6f92a457
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antenna10_L
+    100002: Antenna10_L 1
+    100004: Antenna10_R
+    100006: Antenna10_R 1
+    100008: Antenna11_L
+    100010: Antenna11_L 1
+    100012: Antenna11_R
+    100014: Antenna11_R 1
+    100016: Antenna12_L
+    100018: Antenna12_L 1
+    100020: Antenna12_R
+    100022: Antenna12_R 1
+    100024: Antenna13_L
+    100026: Antenna13_L 1
+    100028: Antenna13_R
+    100030: Antenna13_R 1
+    100032: Antenna14_L
+    100034: Antenna14_L 1
+    100036: Antenna14_R
+    100038: Antenna14_R 1
+    100040: Antenna15_L
+    100042: Antenna15_L 1
+    100044: Antenna15_R
+    100046: Antenna15_R 1
+    100048: Antenna16_L
+    100050: Antenna16_L 1
+    100052: Antenna16_R
+    100054: Antenna16_R 1
+    100056: Antenna1_L
+    100058: Antenna1_L 1
+    100060: Antenna1_R
+    100062: Antenna1_R 1
+    100064: Antenna2_L
+    100066: Antenna2_L 1
+    100068: Antenna2_R
+    100070: Antenna2_R 1
+    100072: Antenna3_L
+    100074: Antenna3_L 1
+    100076: Antenna3_R
+    100078: Antenna3_R 1
+    100080: Antenna4_L
+    100082: Antenna4_L 1
+    100084: Antenna4_R
+    100086: Antenna4_R 1
+    100088: Antenna5_L
+    100090: Antenna5_L 1
+    100092: Antenna5_R
+    100094: Antenna5_R 1
+    100096: Antenna6_L
+    100098: Antenna6_L 1
+    100100: Antenna6_R
+    100102: Antenna6_R 1
+    100104: Antenna7_L
+    100106: Antenna7_L 1
+    100108: Antenna7_R
+    100110: Antenna7_R 1
+    100112: Antenna8_L
+    100114: Antenna8_L 1
+    100116: Antenna8_R
+    100118: Antenna8_R 1
+    100120: Antenna9_L
+    100122: Antenna9_L 1
+    100124: Antenna9_R
+    100126: Antenna9_R 1
+    100128: BackLeg1_L
+    100130: BackLeg1_L 1
+    100132: BackLeg1_R
+    100134: BackLeg1_R 1
+    100136: BackLeg2_L
+    100138: BackLeg2_L 1
+    100140: BackLeg2_R
+    100142: BackLeg2_R 1
+    100144: BackLeg3_L
+    100146: BackLeg3_L 1
+    100148: BackLeg3_R
+    100150: BackLeg3_R 1
+    100152: BackLeg6_L
+    100154: BackLeg6_L 1
+    100156: BackLeg6_R
+    100158: BackLeg6_R 1
+    100160: BackLeg7_L
+    100162: BackLeg7_L 1
+    100164: BackLeg7_R
+    100166: BackLeg7_R 1
+    100168: BackLeg8_L
+    100170: BackLeg8_L 1
+    100172: BackLeg8_R
+    100174: BackLeg8_R 1
+    100176: BackLeg9_L
+    100178: BackLeg9_L 1
+    100180: BackLeg9_R
+    100182: BackLeg9_R 1
+    100184: Chest_M
+    100186: Chest_M 1
+    100188: DeformationSystem
+    100190: DeformationSystem1
+    100192: DnWing1_L_L
+    100194: DnWing1_L_L 1
+    100196: DnWing1_L_R
+    100198: DnWing1_L_R 1
+    100200: DnWing2_L_L
+    100202: DnWing2_L_L 1
+    100204: DnWing2_L_R
+    100206: DnWing2_L_R 1
+    100208: DnWing3_L_L
+    100210: DnWing3_L_L 1
+    100212: DnWing3_L_R
+    100214: DnWing3_L_R 1
+    100216: DnWing4_L_L
+    100218: DnWing4_L_L 1
+    100220: DnWing4_L_R
+    100222: DnWing4_L_R 1
+    100224: DnWing9_L_L
+    100226: DnWing9_L_L 1
+    100228: DnWing9_L_R
+    100230: DnWing9_L_R 1
+    100232: FrontLeg1_L
+    100234: FrontLeg1_L 1
+    100236: FrontLeg1_R
+    100238: FrontLeg1_R 1
+    100240: FrontLeg2_L
+    100242: FrontLeg2_L 1
+    100244: FrontLeg2_R
+    100246: FrontLeg2_R 1
+    100248: FrontLeg3_L
+    100250: FrontLeg3_L 1
+    100252: FrontLeg3_R
+    100254: FrontLeg3_R 1
+    100256: FrontLeg6_L
+    100258: FrontLeg6_L 1
+    100260: FrontLeg6_R
+    100262: FrontLeg6_R 1
+    100264: FrontLeg7_L
+    100266: FrontLeg7_L 1
+    100268: FrontLeg7_R
+    100270: FrontLeg7_R 1
+    100272: FrontLeg8_L
+    100274: FrontLeg8_L 1
+    100276: FrontLeg8_R
+    100278: FrontLeg8_R 1
+    100280: FrontLeg9_L
+    100282: FrontLeg9_L 1
+    100284: FrontLeg9_R
+    100286: FrontLeg9_R 1
+    100288: HD_js001_1_body_model
+    100290: HD_js001_1_body_model 1
+    100292: HD_js001_1_body_model 2
+    100294: HD_js001_1_body_model 3
+    100296: HD_js001_1_chibang_L_dn_model
+    100298: HD_js001_1_chibang_L_dn_model 1
+    100300: HD_js001_1_chibang_L_up_model
+    100302: HD_js001_1_chibang_L_up_model 1
+    100304: HD_js001_1_chibang_model_grp
+    100306: HD_js001_1_chibang_model_grp 1
+    100308: HD_js001_1_chibang_R_dn_model
+    100310: HD_js001_1_chibang_R_dn_model 1
+    100312: HD_js001_1_chibang_R_up_model
+    100314: HD_js001_1_chibang_R_up_model 1
+    100316: HD_js001_1_chujiao_L_model
+    100318: HD_js001_1_chujiao_L_model 1
+    100320: HD_js001_1_chujiao_model_grp
+    100322: HD_js001_1_chujiao_model_grp 1
+    100324: HD_js001_1_chujiao_R_model
+    100326: HD_js001_1_chujiao_R_model 1
+    100328: HD_js001_1_leg_L_model0
+    100330: HD_js001_1_leg_L_model0 1
+    100332: HD_js001_1_leg_L_model1
+    100334: HD_js001_1_leg_L_model1 1
+    100336: HD_js001_1_leg_L_model2
+    100338: HD_js001_1_leg_L_model2 1
+    100340: HD_js001_1_leg_L_model3
+    100342: HD_js001_1_leg_L_model3 1
+    100344: HD_js001_1_leg_L_model4
+    100346: HD_js001_1_leg_L_model4 1
+    100348: HD_js001_1_leg_L_model5
+    100350: HD_js001_1_leg_L_model5 1
+    100352: HD_js001_1_leg_L_model6
+    100354: HD_js001_1_leg_L_model6 1
+    100356: HD_js001_1_leg_L_model_grp
+    100358: HD_js001_1_leg_L_model_grp 1
+    100360: HD_js001_1_leg_R_model0
+    100362: HD_js001_1_leg_R_model0 1
+    100364: HD_js001_1_leg_R_model1
+    100366: HD_js001_1_leg_R_model1 1
+    100368: HD_js001_1_leg_R_model2
+    100370: HD_js001_1_leg_R_model2 1
+    100372: HD_js001_1_leg_R_model3
+    100374: HD_js001_1_leg_R_model3 1
+    100376: HD_js001_1_leg_R_model4
+    100378: HD_js001_1_leg_R_model4 1
+    100380: HD_js001_1_leg_R_model5
+    100382: HD_js001_1_leg_R_model5 1
+    100384: HD_js001_1_leg_R_model6
+    100386: HD_js001_1_leg_R_model6 1
+    100388: HD_js001_1_leg_R_model_grp
+    100390: HD_js001_1_leg_R_model_grp 1
+    100392: HD_js001_1_Mo_grp
+    100394: HD_js001_1_Mo_grp1
+    100396: HD_js001_1_model_grp
+    100398: HD_js001_1_model_grp 1
+    100400: HD_js001_1_mouth_L_model
+    100402: HD_js001_1_mouth_L_model 1
+    100404: HD_js001_1_mouth_R_model
+    100406: HD_js001_1_mouth_R_model 1
+    100408: HD_js001_1_though_model
+    100410: HD_js001_1_though_model 1
+    100412: Head_M
+    100414: Head_M 1
+    100416: HeadEnd_M
+    100418: HeadEnd_M 1
+    100420: Mouth10_M
+    100422: Mouth10_M 1
+    100424: Mouth11_M
+    100426: Mouth11_M 1
+    100428: Mouth12_M
+    100430: Mouth12_M 1
+    100432: Mouth13_M
+    100434: Mouth13_M 1
+    100436: Mouth14_M
+    100438: Mouth14_M 1
+    100440: Mouth15_M
+    100442: Mouth15_M 1
+    100444: Mouth16_M
+    100446: Mouth16_M 1
+    100448: Mouth17_M
+    100450: Mouth17_M 1
+    100452: Mouth1_M
+    100454: Mouth1_M 1
+    100456: Mouth2_M
+    100458: Mouth2_M 1
+    100460: Mouth3_M
+    100462: Mouth3_M 1
+    100464: Mouth4_M
+    100466: Mouth4_M 1
+    100468: Mouth5_M
+    100470: Mouth5_M 1
+    100472: Mouth6_M
+    100474: Mouth6_M 1
+    100476: Mouth7_M
+    100478: Mouth7_M 1
+    100480: Mouth8_M
+    100482: Mouth8_M 1
+    100484: Mouth9_M
+    100486: Mouth9_M 1
+    100488: Root_M
+    100490: Root_M 1
+    100492: Tail0_M
+    100494: Tail0_M 1
+    100496: Tail1_M
+    100498: Tail1_M 1
+    100500: Tail2_M
+    100502: Tail2_M 1
+    100504: Tail3_M
+    100506: Tail3_M 1
+    100508: Tail4_M
+    100510: Tail4_M 1
+    100512: Tail5_M
+    100514: Tail5_M 1
+    100516: Tail6_M
+    100518: Tail6_M 1
+    100520: Tail7_M
+    100522: Tail7_M 1
+    100524: Tail8_M
+    100526: Tail8_M 1
+    100528: UpWing10_L_L
+    100530: UpWing10_L_L 1
+    100532: UpWing10_L_R
+    100534: UpWing10_L_R 1
+    100536: UpWing1_L_L
+    100538: UpWing1_L_L 1
+    100540: UpWing1_L_R
+    100542: UpWing1_L_R 1
+    100544: UpWing2_L_L
+    100546: UpWing2_L_L 1
+    100548: UpWing2_L_R
+    100550: UpWing2_L_R 1
+    100552: UpWing3_L_L
+    100554: UpWing3_L_L 1
+    100556: UpWing3_L_R
+    100558: UpWing3_L_R 1
+    100560: UpWing4_L_L
+    100562: UpWing4_L_L 1
+    100564: UpWing4_L_R
+    100566: UpWing4_L_R 1
+    100568: UpWing5_L_L
+    100570: UpWing5_L_L 1
+    100572: UpWing5_L_R
+    100574: UpWing5_L_R 1
+    100576: //RootNode
+    400000: Antenna10_L
+    400002: Antenna10_L 1
+    400004: Antenna10_R
+    400006: Antenna10_R 1
+    400008: Antenna11_L
+    400010: Antenna11_L 1
+    400012: Antenna11_R
+    400014: Antenna11_R 1
+    400016: Antenna12_L
+    400018: Antenna12_L 1
+    400020: Antenna12_R
+    400022: Antenna12_R 1
+    400024: Antenna13_L
+    400026: Antenna13_L 1
+    400028: Antenna13_R
+    400030: Antenna13_R 1
+    400032: Antenna14_L
+    400034: Antenna14_L 1
+    400036: Antenna14_R
+    400038: Antenna14_R 1
+    400040: Antenna15_L
+    400042: Antenna15_L 1
+    400044: Antenna15_R
+    400046: Antenna15_R 1
+    400048: Antenna16_L
+    400050: Antenna16_L 1
+    400052: Antenna16_R
+    400054: Antenna16_R 1
+    400056: Antenna1_L
+    400058: Antenna1_L 1
+    400060: Antenna1_R
+    400062: Antenna1_R 1
+    400064: Antenna2_L
+    400066: Antenna2_L 1
+    400068: Antenna2_R
+    400070: Antenna2_R 1
+    400072: Antenna3_L
+    400074: Antenna3_L 1
+    400076: Antenna3_R
+    400078: Antenna3_R 1
+    400080: Antenna4_L
+    400082: Antenna4_L 1
+    400084: Antenna4_R
+    400086: Antenna4_R 1
+    400088: Antenna5_L
+    400090: Antenna5_L 1
+    400092: Antenna5_R
+    400094: Antenna5_R 1
+    400096: Antenna6_L
+    400098: Antenna6_L 1
+    400100: Antenna6_R
+    400102: Antenna6_R 1
+    400104: Antenna7_L
+    400106: Antenna7_L 1
+    400108: Antenna7_R
+    400110: Antenna7_R 1
+    400112: Antenna8_L
+    400114: Antenna8_L 1
+    400116: Antenna8_R
+    400118: Antenna8_R 1
+    400120: Antenna9_L
+    400122: Antenna9_L 1
+    400124: Antenna9_R
+    400126: Antenna9_R 1
+    400128: BackLeg1_L
+    400130: BackLeg1_L 1
+    400132: BackLeg1_R
+    400134: BackLeg1_R 1
+    400136: BackLeg2_L
+    400138: BackLeg2_L 1
+    400140: BackLeg2_R
+    400142: BackLeg2_R 1
+    400144: BackLeg3_L
+    400146: BackLeg3_L 1
+    400148: BackLeg3_R
+    400150: BackLeg3_R 1
+    400152: BackLeg6_L
+    400154: BackLeg6_L 1
+    400156: BackLeg6_R
+    400158: BackLeg6_R 1
+    400160: BackLeg7_L
+    400162: BackLeg7_L 1
+    400164: BackLeg7_R
+    400166: BackLeg7_R 1
+    400168: BackLeg8_L
+    400170: BackLeg8_L 1
+    400172: BackLeg8_R
+    400174: BackLeg8_R 1
+    400176: BackLeg9_L
+    400178: BackLeg9_L 1
+    400180: BackLeg9_R
+    400182: BackLeg9_R 1
+    400184: Chest_M
+    400186: Chest_M 1
+    400188: DeformationSystem
+    400190: DeformationSystem1
+    400192: DnWing1_L_L
+    400194: DnWing1_L_L 1
+    400196: DnWing1_L_R
+    400198: DnWing1_L_R 1
+    400200: DnWing2_L_L
+    400202: DnWing2_L_L 1
+    400204: DnWing2_L_R
+    400206: DnWing2_L_R 1
+    400208: DnWing3_L_L
+    400210: DnWing3_L_L 1
+    400212: DnWing3_L_R
+    400214: DnWing3_L_R 1
+    400216: DnWing4_L_L
+    400218: DnWing4_L_L 1
+    400220: DnWing4_L_R
+    400222: DnWing4_L_R 1
+    400224: DnWing9_L_L
+    400226: DnWing9_L_L 1
+    400228: DnWing9_L_R
+    400230: DnWing9_L_R 1
+    400232: FrontLeg1_L
+    400234: FrontLeg1_L 1
+    400236: FrontLeg1_R
+    400238: FrontLeg1_R 1
+    400240: FrontLeg2_L
+    400242: FrontLeg2_L 1
+    400244: FrontLeg2_R
+    400246: FrontLeg2_R 1
+    400248: FrontLeg3_L
+    400250: FrontLeg3_L 1
+    400252: FrontLeg3_R
+    400254: FrontLeg3_R 1
+    400256: FrontLeg6_L
+    400258: FrontLeg6_L 1
+    400260: FrontLeg6_R
+    400262: FrontLeg6_R 1
+    400264: FrontLeg7_L
+    400266: FrontLeg7_L 1
+    400268: FrontLeg7_R
+    400270: FrontLeg7_R 1
+    400272: FrontLeg8_L
+    400274: FrontLeg8_L 1
+    400276: FrontLeg8_R
+    400278: FrontLeg8_R 1
+    400280: FrontLeg9_L
+    400282: FrontLeg9_L 1
+    400284: FrontLeg9_R
+    400286: FrontLeg9_R 1
+    400288: HD_js001_1_body_model
+    400290: HD_js001_1_body_model 1
+    400292: HD_js001_1_body_model 2
+    400294: HD_js001_1_body_model 3
+    400296: HD_js001_1_chibang_L_dn_model
+    400298: HD_js001_1_chibang_L_dn_model 1
+    400300: HD_js001_1_chibang_L_up_model
+    400302: HD_js001_1_chibang_L_up_model 1
+    400304: HD_js001_1_chibang_model_grp
+    400306: HD_js001_1_chibang_model_grp 1
+    400308: HD_js001_1_chibang_R_dn_model
+    400310: HD_js001_1_chibang_R_dn_model 1
+    400312: HD_js001_1_chibang_R_up_model
+    400314: HD_js001_1_chibang_R_up_model 1
+    400316: HD_js001_1_chujiao_L_model
+    400318: HD_js001_1_chujiao_L_model 1
+    400320: HD_js001_1_chujiao_model_grp
+    400322: HD_js001_1_chujiao_model_grp 1
+    400324: HD_js001_1_chujiao_R_model
+    400326: HD_js001_1_chujiao_R_model 1
+    400328: HD_js001_1_leg_L_model0
+    400330: HD_js001_1_leg_L_model0 1
+    400332: HD_js001_1_leg_L_model1
+    400334: HD_js001_1_leg_L_model1 1
+    400336: HD_js001_1_leg_L_model2
+    400338: HD_js001_1_leg_L_model2 1
+    400340: HD_js001_1_leg_L_model3
+    400342: HD_js001_1_leg_L_model3 1
+    400344: HD_js001_1_leg_L_model4
+    400346: HD_js001_1_leg_L_model4 1
+    400348: HD_js001_1_leg_L_model5
+    400350: HD_js001_1_leg_L_model5 1
+    400352: HD_js001_1_leg_L_model6
+    400354: HD_js001_1_leg_L_model6 1
+    400356: HD_js001_1_leg_L_model_grp
+    400358: HD_js001_1_leg_L_model_grp 1
+    400360: HD_js001_1_leg_R_model0
+    400362: HD_js001_1_leg_R_model0 1
+    400364: HD_js001_1_leg_R_model1
+    400366: HD_js001_1_leg_R_model1 1
+    400368: HD_js001_1_leg_R_model2
+    400370: HD_js001_1_leg_R_model2 1
+    400372: HD_js001_1_leg_R_model3
+    400374: HD_js001_1_leg_R_model3 1
+    400376: HD_js001_1_leg_R_model4
+    400378: HD_js001_1_leg_R_model4 1
+    400380: HD_js001_1_leg_R_model5
+    400382: HD_js001_1_leg_R_model5 1
+    400384: HD_js001_1_leg_R_model6
+    400386: HD_js001_1_leg_R_model6 1
+    400388: HD_js001_1_leg_R_model_grp
+    400390: HD_js001_1_leg_R_model_grp 1
+    400392: HD_js001_1_Mo_grp
+    400394: HD_js001_1_Mo_grp1
+    400396: HD_js001_1_model_grp
+    400398: HD_js001_1_model_grp 1
+    400400: HD_js001_1_mouth_L_model
+    400402: HD_js001_1_mouth_L_model 1
+    400404: HD_js001_1_mouth_R_model
+    400406: HD_js001_1_mouth_R_model 1
+    400408: HD_js001_1_though_model
+    400410: HD_js001_1_though_model 1
+    400412: Head_M
+    400414: Head_M 1
+    400416: HeadEnd_M
+    400418: HeadEnd_M 1
+    400420: Mouth10_M
+    400422: Mouth10_M 1
+    400424: Mouth11_M
+    400426: Mouth11_M 1
+    400428: Mouth12_M
+    400430: Mouth12_M 1
+    400432: Mouth13_M
+    400434: Mouth13_M 1
+    400436: Mouth14_M
+    400438: Mouth14_M 1
+    400440: Mouth15_M
+    400442: Mouth15_M 1
+    400444: Mouth16_M
+    400446: Mouth16_M 1
+    400448: Mouth17_M
+    400450: Mouth17_M 1
+    400452: Mouth1_M
+    400454: Mouth1_M 1
+    400456: Mouth2_M
+    400458: Mouth2_M 1
+    400460: Mouth3_M
+    400462: Mouth3_M 1
+    400464: Mouth4_M
+    400466: Mouth4_M 1
+    400468: Mouth5_M
+    400470: Mouth5_M 1
+    400472: Mouth6_M
+    400474: Mouth6_M 1
+    400476: Mouth7_M
+    400478: Mouth7_M 1
+    400480: Mouth8_M
+    400482: Mouth8_M 1
+    400484: Mouth9_M
+    400486: Mouth9_M 1
+    400488: Root_M
+    400490: Root_M 1
+    400492: Tail0_M
+    400494: Tail0_M 1
+    400496: Tail1_M
+    400498: Tail1_M 1
+    400500: Tail2_M
+    400502: Tail2_M 1
+    400504: Tail3_M
+    400506: Tail3_M 1
+    400508: Tail4_M
+    400510: Tail4_M 1
+    400512: Tail5_M
+    400514: Tail5_M 1
+    400516: Tail6_M
+    400518: Tail6_M 1
+    400520: Tail7_M
+    400522: Tail7_M 1
+    400524: Tail8_M
+    400526: Tail8_M 1
+    400528: UpWing10_L_L
+    400530: UpWing10_L_L 1
+    400532: UpWing10_L_R
+    400534: UpWing10_L_R 1
+    400536: UpWing1_L_L
+    400538: UpWing1_L_L 1
+    400540: UpWing1_L_R
+    400542: UpWing1_L_R 1
+    400544: UpWing2_L_L
+    400546: UpWing2_L_L 1
+    400548: UpWing2_L_R
+    400550: UpWing2_L_R 1
+    400552: UpWing3_L_L
+    400554: UpWing3_L_L 1
+    400556: UpWing3_L_R
+    400558: UpWing3_L_R 1
+    400560: UpWing4_L_L
+    400562: UpWing4_L_L 1
+    400564: UpWing4_L_R
+    400566: UpWing4_L_R 1
+    400568: UpWing5_L_L
+    400570: UpWing5_L_L 1
+    400572: UpWing5_L_R
+    400574: UpWing5_L_R 1
+    400576: //RootNode
+    2100000: lambert21
+    2100002: lambert22
+    4300000: HD_js001_1_mouth_L_model
+    4300002: HD_js001_1_mouth_R_model
+    4300004: HD_js001_1_body_model
+    4300006: HD_js001_1_though_model
+    4300008: HD_js001_1_chibang_L_up_model
+    4300010: HD_js001_1_chibang_L_dn_model
+    4300012: HD_js001_1_chibang_R_up_model
+    4300014: HD_js001_1_chibang_R_dn_model
+    4300016: HD_js001_1_leg_L_model0
+    4300018: HD_js001_1_leg_L_model1
+    4300020: HD_js001_1_leg_L_model2
+    4300022: HD_js001_1_leg_L_model3
+    4300024: HD_js001_1_leg_L_model4
+    4300026: HD_js001_1_leg_L_model5
+    4300028: HD_js001_1_leg_L_model6
+    4300030: HD_js001_1_leg_R_model0
+    4300032: HD_js001_1_leg_R_model1
+    4300034: HD_js001_1_leg_R_model2
+    4300036: HD_js001_1_leg_R_model3
+    4300038: HD_js001_1_leg_R_model4
+    4300040: HD_js001_1_leg_R_model5
+    4300042: HD_js001_1_leg_R_model6
+    4300044: HD_js001_1_chujiao_L_model
+    4300046: HD_js001_1_chujiao_R_model
+    4300048: HD_js001_1_mouth_L_model
+    4300050: HD_js001_1_mouth_R_model
+    4300052: HD_js001_1_body_model
+    4300054: HD_js001_1_though_model
+    4300056: HD_js001_1_chibang_L_up_model
+    4300058: HD_js001_1_chibang_L_dn_model
+    4300060: HD_js001_1_chibang_R_up_model
+    4300062: HD_js001_1_chibang_R_dn_model
+    4300064: HD_js001_1_leg_L_model0
+    4300066: HD_js001_1_leg_L_model1
+    4300068: HD_js001_1_leg_L_model2
+    4300070: HD_js001_1_leg_L_model3
+    4300072: HD_js001_1_leg_L_model4
+    4300074: HD_js001_1_leg_L_model5
+    4300076: HD_js001_1_leg_L_model6
+    4300078: HD_js001_1_leg_R_model0
+    4300080: HD_js001_1_leg_R_model1
+    4300082: HD_js001_1_leg_R_model2
+    4300084: HD_js001_1_leg_R_model3
+    4300086: HD_js001_1_leg_R_model4
+    4300088: HD_js001_1_leg_R_model5
+    4300090: HD_js001_1_leg_R_model6
+    4300092: HD_js001_1_chujiao_L_model
+    4300094: HD_js001_1_chujiao_R_model
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: HD_js001_1_body_model 2
+    13700002: HD_js001_1_body_model 3
+    13700004: HD_js001_1_chibang_L_dn_model
+    13700006: HD_js001_1_chibang_L_dn_model 1
+    13700008: HD_js001_1_chibang_L_up_model
+    13700010: HD_js001_1_chibang_L_up_model 1
+    13700012: HD_js001_1_chibang_R_dn_model
+    13700014: HD_js001_1_chibang_R_dn_model 1
+    13700016: HD_js001_1_chibang_R_up_model
+    13700018: HD_js001_1_chibang_R_up_model 1
+    13700020: HD_js001_1_chujiao_L_model
+    13700022: HD_js001_1_chujiao_L_model 1
+    13700024: HD_js001_1_chujiao_R_model
+    13700026: HD_js001_1_chujiao_R_model 1
+    13700028: HD_js001_1_leg_L_model0
+    13700030: HD_js001_1_leg_L_model0 1
+    13700032: HD_js001_1_leg_L_model1
+    13700034: HD_js001_1_leg_L_model1 1
+    13700036: HD_js001_1_leg_L_model2
+    13700038: HD_js001_1_leg_L_model2 1
+    13700040: HD_js001_1_leg_L_model3
+    13700042: HD_js001_1_leg_L_model3 1
+    13700044: HD_js001_1_leg_L_model4
+    13700046: HD_js001_1_leg_L_model4 1
+    13700048: HD_js001_1_leg_L_model5
+    13700050: HD_js001_1_leg_L_model5 1
+    13700052: HD_js001_1_leg_L_model6
+    13700054: HD_js001_1_leg_L_model6 1
+    13700056: HD_js001_1_leg_R_model0
+    13700058: HD_js001_1_leg_R_model0 1
+    13700060: HD_js001_1_leg_R_model1
+    13700062: HD_js001_1_leg_R_model1 1
+    13700064: HD_js001_1_leg_R_model2
+    13700066: HD_js001_1_leg_R_model2 1
+    13700068: HD_js001_1_leg_R_model3
+    13700070: HD_js001_1_leg_R_model3 1
+    13700072: HD_js001_1_leg_R_model4
+    13700074: HD_js001_1_leg_R_model4 1
+    13700076: HD_js001_1_leg_R_model5
+    13700078: HD_js001_1_leg_R_model5 1
+    13700080: HD_js001_1_leg_R_model6
+    13700082: HD_js001_1_leg_R_model6 1
+    13700084: HD_js001_1_mouth_L_model
+    13700086: HD_js001_1_mouth_L_model 1
+    13700088: HD_js001_1_mouth_R_model
+    13700090: HD_js001_1_mouth_R_model 1
+    13700092: HD_js001_1_though_model
+    13700094: HD_js001_1_though_model 1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert21
+    second: {fileID: 2100000, guid: 9e3ff26d4d9b32d4d8707f080f2f3050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert22
+    second: {fileID: 2100000, guid: 9e3ff26d4d9b32d4d8707f080f2f3050, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 10
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
